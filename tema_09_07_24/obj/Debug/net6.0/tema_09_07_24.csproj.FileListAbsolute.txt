@@ -1,0 +1,14 @@
+D:\projects\C#\tema_09_07_24\tema_09_07_24\bin\Debug\net6.0\tema_09_07_24.exe
+D:\projects\C#\tema_09_07_24\tema_09_07_24\bin\Debug\net6.0\tema_09_07_24.deps.json
+D:\projects\C#\tema_09_07_24\tema_09_07_24\bin\Debug\net6.0\tema_09_07_24.runtimeconfig.json
+D:\projects\C#\tema_09_07_24\tema_09_07_24\bin\Debug\net6.0\tema_09_07_24.dll
+D:\projects\C#\tema_09_07_24\tema_09_07_24\bin\Debug\net6.0\tema_09_07_24.pdb
+D:\projects\C#\tema_09_07_24\tema_09_07_24\obj\Debug\net6.0\tema_09_07_24.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\C#\tema_09_07_24\tema_09_07_24\obj\Debug\net6.0\tema_09_07_24.AssemblyInfoInputs.cache
+D:\projects\C#\tema_09_07_24\tema_09_07_24\obj\Debug\net6.0\tema_09_07_24.AssemblyInfo.cs
+D:\projects\C#\tema_09_07_24\tema_09_07_24\obj\Debug\net6.0\tema_09_07_24.csproj.CoreCompileInputs.cache
+D:\projects\C#\tema_09_07_24\tema_09_07_24\obj\Debug\net6.0\tema_09_07_24.dll
+D:\projects\C#\tema_09_07_24\tema_09_07_24\obj\Debug\net6.0\refint\tema_09_07_24.dll
+D:\projects\C#\tema_09_07_24\tema_09_07_24\obj\Debug\net6.0\tema_09_07_24.pdb
+D:\projects\C#\tema_09_07_24\tema_09_07_24\obj\Debug\net6.0\tema_09_07_24.genruntimeconfig.cache
+D:\projects\C#\tema_09_07_24\tema_09_07_24\obj\Debug\net6.0\ref\tema_09_07_24.dll

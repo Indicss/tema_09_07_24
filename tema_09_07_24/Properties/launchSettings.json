@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "tema_09_07_24": {
+      "commandName": "Project"
+    },
+    "WSL": {
+      "commandName": "WSL2",
+      "distributionName": ""
+    }
+  }
+}
